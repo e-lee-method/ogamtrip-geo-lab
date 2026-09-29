@@ -80,3 +80,39 @@ GPTers GEO·SEO 스터디에서 검색 및 AI 노출 변화를 직접 실험하�
 
 \- 공개 사이트 반영 확인 완료
 
+\## Experiment 002 — Canonical 추가
+
+
+
+\### 날짜
+
+2026-09-29
+
+
+
+\### 변경 내용
+
+<link rel="canonical" href="https://ogamtrip-geo-lab.vercel.app/">
+
+
+
+\### 변경 이유
+
+Vercel에서 여러 주소로 같은 페이지에 접근할 수 있어도,
+
+검색엔진에게 이 페이지의 대표 URL이
+
+https://ogamtrip-geo-lab.vercel.app/
+
+임을 알려주기 위해 추가.
+
+
+
+\### 상태
+
+\- index.html 로컬 수정 완료
+
+\- GitHub 반영 전
+
+\- Vercel 반영 전
+
