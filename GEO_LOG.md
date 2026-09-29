@@ -74,7 +74,9 @@ GPTers GEO·SEO 스터디에서 검색 및 AI 노출 변화를 직접 실험하�
 
 \- index.html 로컬 수정 완료
 
-\- GitHub 반영 전
+\- GitHub 반영 완료
 
-\- Vercel 반영 전enf
+\- Vercel 배포 완료
+
+\- 공개 사이트 반영 확인 완료
 
