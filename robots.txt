@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ogamtrip-geo-lab.vercel.app/sitemap.xml
